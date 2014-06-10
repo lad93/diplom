@@ -11,6 +11,7 @@ class APPLICATION {
 
     function __construct($CODE)
     {
+        //комментарий
         $this->getArrCommands($CODE);
     }
 
